@@ -1,4 +1,4 @@
-package com.sapient;
+package com.products;
 
 import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;

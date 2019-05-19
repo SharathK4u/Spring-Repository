@@ -1,11 +1,11 @@
-package com.sapient;
+package com.products;
 
 import java.util.List;
 
 import org.springframework.stereotype.Component;
 import org.springframework.stereotype.Service;
 
-import com.sapient.Product;
+import com.products.Product;
 @Service
 public interface ProductService {
 	List<Product> getAllProducts();

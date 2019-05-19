@@ -1,8 +1,8 @@
-package com.sapient;
+package com.products;
 
 import org.springframework.stereotype.Repository;
 
-import com.sapient.Product;
+import com.products.Product;
 
 import java.util.List;
 
